@@ -1,2 +1,2 @@
-# quicken
-Need to download Quicken? Get the official Quicken software for Windows or Mac, plus a step-by-step guide to install, activate, and get started fast.
+# quickbooks
+Facing QuickBooks errors, sync issues, or login problems? Get real solutions with our updated QuickBooks Support guide—chat, call, or troubleshoot it yourself.
