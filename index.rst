@@ -13,7 +13,7 @@ However, `Download Quicken <https://quickencomdownload-help-center.readthedocs.i
 
 .. image:: getstartedhere.png
    :alt: Quicken Download
-   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2VuY29tZG93bmxvYWQtaGVscC1jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://quickencomdownload.wordpress.com/
 
 .. raw:: html
 
